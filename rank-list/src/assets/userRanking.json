@@ -1,0 +1,641 @@
+{
+    "code": 200,
+    "msg": "success: 😎 还挺行, 🎅🎁",
+    "data": {
+        "ranking": {
+            "ranks": [
+              {
+                "primaryScore": 100,
+                "advanceScore": 98,
+                "seniorScore": 35,
+                "totalScore": 233,
+                "user": {
+                  "id": "1323903307157291008",
+                  "studentNumber": "542007090229",
+                  "name": "朱埮鑫",
+                  "teamId": 15,
+                  "theClass": "物联网20-02"
+                },
+                "problemScores": {
+                  "1-1": {
+                    "score": 5.0,
+                    "acceptTime": 0,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-2": {
+                    "score": 5.0,
+                    "acceptTime": 1,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-3": {
+                    "score": 10.0,
+                    "acceptTime": 2,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-4": {
+                    "score": 10.0,
+                    "acceptTime": 3,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-5": {
+                    "score": 15.0,
+                    "acceptTime": 5,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-6": {
+                    "score": 15.0,
+                    "acceptTime": 8,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "1-7": {
+                    "score": 20.0,
+                    "acceptTime": 12,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-8": {
+                    "score": 20.0,
+                    "acceptTime": 18,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "2-1": {
+                    "score": 25.0,
+                    "acceptTime": 20,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "2-2": {
+                    "score": 25.0,
+                    "acceptTime": 67,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "2-3": {
+                    "score": 25.0,
+                    "acceptTime": 126,
+                    "submitCountSnapshot": 6,
+                    "validSubmitCount": 6
+                  },
+                  "2-4": {
+                    "score": 23.0,
+                    "acceptTime": 31,
+                    "submitCountSnapshot": 9,
+                    "validSubmitCount": 9
+                  },
+                  "3-1": {
+                    "score": 8.0,
+                    "acceptTime": 100,
+                    "submitCountSnapshot": 6,
+                    "validSubmitCount": 6
+                  },
+                  "3-2": {
+                    "score": 15.0,
+                    "acceptTime": 170,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "3-3": {
+                    "score": 12.0,
+                    "acceptTime": 63,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  }
+                }
+              },
+              {
+                "primaryScore": 100,
+                "advanceScore": 99,
+                "seniorScore": 25,
+                "totalScore": 224,
+                "user": {
+                  "id": "1323903307337646080",
+                  "studentNumber": "542007250217",
+                  "name": "孙泽国",
+                  "teamId": 20,
+                  "theClass": "人工智能20-02"
+                },
+                "problemScores": {
+                  "1-1": {
+                    "score": 5.0,
+                    "acceptTime": 0,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "1-2": {
+                    "score": 5.0,
+                    "acceptTime": 1,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-3": {
+                    "score": 10.0,
+                    "acceptTime": 3,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-4": {
+                    "score": 10.0,
+                    "acceptTime": 4,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-5": {
+                    "score": 15.0,
+                    "acceptTime": 8,
+                    "submitCountSnapshot": 5,
+                    "validSubmitCount": 5
+                  },
+                  "1-6": {
+                    "score": 15.0,
+                    "acceptTime": 36,
+                    "submitCountSnapshot": 9,
+                    "validSubmitCount": 9
+                  },
+                  "1-7": {
+                    "score": 20.0,
+                    "acceptTime": 25,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-8": {
+                    "score": 20.0,
+                    "acceptTime": 32,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "2-1": {
+                    "score": 25.0,
+                    "acceptTime": 35,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "2-2": {
+                    "score": 25.0,
+                    "acceptTime": 67,
+                    "submitCountSnapshot": 3,
+                    "validSubmitCount": 3
+                  },
+                  "2-3": {
+                    "score": 24.0,
+                    "acceptTime": 69,
+                    "submitCountSnapshot": 13,
+                    "validSubmitCount": 13
+                  },
+                  "2-4": {
+                    "score": 25.0,
+                    "acceptTime": 78,
+                    "submitCountSnapshot": 5,
+                    "validSubmitCount": 5
+                  },
+                  "3-1": {
+                    "score": 13.0,
+                    "acceptTime": 140,
+                    "submitCountSnapshot": 3,
+                    "validSubmitCount": 3
+                  },
+                  "3-2": {
+                    "score": 0.0,
+                    "acceptTime": 178,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "3-3": {
+                    "score": 12.0,
+                    "acceptTime": 129,
+                    "submitCountSnapshot": 3,
+                    "validSubmitCount": 3
+                  }
+                }
+              },
+              {
+                "primaryScore": 100,
+                "advanceScore": 100,
+                "seniorScore": 24,
+                "totalScore": 224,
+                "user": {
+                  "id": "1323903307434115072",
+                  "studentNumber": "542007010312",
+                  "name": "石凡靖",
+                  "teamId": 7,
+                  "theClass": "计科20-03"
+                },
+                "problemScores": {
+                  "1-1": {
+                    "score": 5.0,
+                    "acceptTime": 0,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-2": {
+                    "score": 5.0,
+                    "acceptTime": 3,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-3": {
+                    "score": 10.0,
+                    "acceptTime": 5,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-4": {
+                    "score": 10.0,
+                    "acceptTime": 7,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-5": {
+                    "score": 15.0,
+                    "acceptTime": 12,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "1-6": {
+                    "score": 15.0,
+                    "acceptTime": 18,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-7": {
+                    "score": 20.0,
+                    "acceptTime": 27,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-8": {
+                    "score": 20.0,
+                    "acceptTime": 38,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "2-1": {
+                    "score": 25.0,
+                    "acceptTime": 45,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "2-2": {
+                    "score": 25.0,
+                    "acceptTime": 55,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "2-3": {
+                    "score": 25.0,
+                    "acceptTime": 100,
+                    "submitCountSnapshot": 3,
+                    "validSubmitCount": 3
+                  },
+                  "2-4": {
+                    "score": 25.0,
+                    "acceptTime": 93,
+                    "submitCountSnapshot": 8,
+                    "validSubmitCount": 8
+                  },
+                  "3-1": {
+                    "score": 3.0,
+                    "acceptTime": 109,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "3-2": {
+                    "score": 15.0,
+                    "acceptTime": 148,
+                    "submitCountSnapshot": 13,
+                    "validSubmitCount": 13
+                  },
+                  "3-3": {
+                    "score": 6.0,
+                    "acceptTime": 166,
+                    "submitCountSnapshot": 20,
+                    "validSubmitCount": 20
+                  }
+                }
+              },
+              {
+                "primaryScore": 100,
+                "advanceScore": 96,
+                "seniorScore": 15,
+                "totalScore": 211,
+                "user": {
+                  "id": "1323903307660607488",
+                  "studentNumber": "542007230126",
+                  "name": "张一泽",
+                  "teamId": 28,
+                  "theClass": "移动软件20-1"
+                },
+                "problemScores": {
+                  "1-1": {
+                    "score": 5.0,
+                    "acceptTime": 0,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-2": {
+                    "score": 5.0,
+                    "acceptTime": 1,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-3": {
+                    "score": 10.0,
+                    "acceptTime": 5,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "1-4": {
+                    "score": 10.0,
+                    "acceptTime": 7,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "1-5": {
+                    "score": 15.0,
+                    "acceptTime": 11,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "1-6": {
+                    "score": 15.0,
+                    "acceptTime": 14,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-7": {
+                    "score": 20.0,
+                    "acceptTime": 27,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-8": {
+                    "score": 20.0,
+                    "acceptTime": 22,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "2-1": {
+                    "score": 25.0,
+                    "acceptTime": 35,
+                    "submitCountSnapshot": 6,
+                    "validSubmitCount": 6
+                  },
+                  "2-2": {
+                    "score": 25.0,
+                    "acceptTime": 75,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "2-3": {
+                    "score": 25.0,
+                    "acceptTime": 47,
+                    "submitCountSnapshot": 7,
+                    "validSubmitCount": 7
+                  },
+                  "2-4": {
+                    "score": 21.0,
+                    "acceptTime": 81,
+                    "submitCountSnapshot": 28,
+                    "validSubmitCount": 28
+                  },
+                  "3-1": {
+                    "score": 3.0,
+                    "acceptTime": 85,
+                    "submitCountSnapshot": 24,
+                    "validSubmitCount": 24
+                  },
+                  "3-2": {
+                    "score": 0.0,
+                    "acceptTime": 85,
+                    "submitCountSnapshot": 13,
+                    "validSubmitCount": 13
+                  },
+                  "3-3": {
+                    "score": 12.0,
+                    "acceptTime": 110,
+                    "submitCountSnapshot": 22,
+                    "validSubmitCount": 22
+                  }
+                }
+              },
+              {
+                "primaryScore": 100,
+                "advanceScore": 87,
+                "seniorScore": 18,
+                "totalScore": 205,
+                "user": {
+                  "id": "1327484143351263232",
+                  "studentNumber": "542007250229",
+                  "name": "张子涵",
+                  "teamId": 20,
+                  "theClass": "人工智能20-02"
+                },
+                "problemScores": {
+                  "1-1": {
+                    "score": 5.0,
+                    "acceptTime": 0,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-2": {
+                    "score": 5.0,
+                    "acceptTime": 2,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-3": {
+                    "score": 10.0,
+                    "acceptTime": 6,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-4": {
+                    "score": 10.0,
+                    "acceptTime": 8,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-5": {
+                    "score": 15.0,
+                    "acceptTime": 25,
+                    "submitCountSnapshot": 4,
+                    "validSubmitCount": 4
+                  },
+                  "1-6": {
+                    "score": 15.0,
+                    "acceptTime": 32,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "1-7": {
+                    "score": 20.0,
+                    "acceptTime": 41,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-8": {
+                    "score": 20.0,
+                    "acceptTime": 53,
+                    "submitCountSnapshot": 3,
+                    "validSubmitCount": 3
+                  },
+                  "2-1": {
+                    "score": 22.0,
+                    "acceptTime": 63,
+                    "submitCountSnapshot": 3,
+                    "validSubmitCount": 3
+                  },
+                  "2-2": {
+                    "score": 25.0,
+                    "acceptTime": 81,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "2-3": {
+                    "score": 25.0,
+                    "acceptTime": 89,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "2-4": {
+                    "score": 15.0,
+                    "acceptTime": 107,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "3-1": {
+                    "score": 3.0,
+                    "acceptTime": 164,
+                    "submitCountSnapshot": 5,
+                    "validSubmitCount": 5
+                  },
+                  "3-2": {
+                    "score": 15.0,
+                    "acceptTime": 173,
+                    "submitCountSnapshot": 5,
+                    "validSubmitCount": 5
+                  },
+                  "3-3": {
+                    "score": 0.0,
+                    "acceptTime": 174,
+                    "submitCountSnapshot": 17,
+                    "validSubmitCount": 17
+                  }
+                }
+              },
+              {
+                "primaryScore": 100,
+                "advanceScore": 98,
+                "seniorScore": 3,
+                "totalScore": 201,
+                "user": {
+                  "id": "1323903307413143552",
+                  "studentNumber": "542007010310",
+                  "name": "刘赵东",
+                  "teamId": 7,
+                  "theClass": "计科20-03"
+                },
+                "problemScores": {
+                  "1-1": {
+                    "score": 5.0,
+                    "acceptTime": 0,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-2": {
+                    "score": 5.0,
+                    "acceptTime": 1,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-3": {
+                    "score": 10.0,
+                    "acceptTime": 2,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-4": {
+                    "score": 10.0,
+                    "acceptTime": 3,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-5": {
+                    "score": 15.0,
+                    "acceptTime": 149,
+                    "submitCountSnapshot": 8,
+                    "validSubmitCount": 8
+                  },
+                  "1-6": {
+                    "score": 15.0,
+                    "acceptTime": 12,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "1-7": {
+                    "score": 20.0,
+                    "acceptTime": 20,
+                    "submitCountSnapshot": 3,
+                    "validSubmitCount": 3
+                  },
+                  "1-8": {
+                    "score": 20.0,
+                    "acceptTime": 89,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "2-1": {
+                    "score": 25.0,
+                    "acceptTime": 41,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "2-2": {
+                    "score": 25.0,
+                    "acceptTime": 49,
+                    "submitCountSnapshot": 1,
+                    "validSubmitCount": 1
+                  },
+                  "2-3": {
+                    "score": 25.0,
+                    "acceptTime": 145,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "2-4": {
+                    "score": 23.0,
+                    "acceptTime": 64,
+                    "submitCountSnapshot": 13,
+                    "validSubmitCount": 13
+                  },
+                  "3-1": {
+                    "score": 3.0,
+                    "acceptTime": 166,
+                    "submitCountSnapshot": 2,
+                    "validSubmitCount": 2
+                  },
+                  "3-2": {
+                    "score": 0.0,
+                    "acceptTime": 172,
+                    "submitCountSnapshot": 6,
+                    "validSubmitCount": 6
+                  },
+                  "3-3": {
+                    "score": 0.0,
+                    "acceptTime": 167,
+                    "submitCountSnapshot": 10,
+                    "validSubmitCount": 10
+                  }
+                }
+              }
+            ],
+            "total": 397
+        }
+    }
+}
