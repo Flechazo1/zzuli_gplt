@@ -1,6 +1,6 @@
 # request
 
-使用`postman`爬取相关的信息。运行开启之后，使用`postman`发送请求一次即可。
+使用`postman`爬取相关的信息。运行开启之后，使用`postman`发送`请求一次`即可。
 地址的话改成部署服务器的地址。
 
 ## 1
@@ -70,7 +70,7 @@ Accept: application/json
 ```
 
 ## 7
-开启 或 关闭 icpc 赛制的爬取榜单任务  
+开启或关闭 icpc 赛制的爬取榜单任务  
 
 ```text
 GET
